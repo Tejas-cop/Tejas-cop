@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tejas-cop
+- 👀 I’m interested in Coding and  Business analytics 
+- 🌱 I’m currently learning Machine learning and artificial intelligence
+- 📫 How to reach me [Linkedin- Tejas Buradkar](https://www.linkedin.com/feed/)
